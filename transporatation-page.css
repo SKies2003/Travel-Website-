@@ -1,0 +1,474 @@
+.transporatation-page-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.transporatation-page-transporatation-page {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.transporatation-page-thebesthotelsandresortsin-asia2023-readers-choice-awar {
+  top: 431px;
+  left: 627px;
+  width: 821px;
+  height: 620px;
+  position: absolute;
+}
+.transporatation-page-image2 {
+  top: -27px;
+  left: 627px;
+  width: 814px;
+  height: 458px;
+  position: absolute;
+}
+.transporatation-page-photo15981908960909dc5c70361d82 {
+  top: -39px;
+  left: 0px;
+  width: 878px;
+  height: 1083px;
+  position: absolute;
+}
+.transporatation-page-group1 {
+  top: 242px;
+  left: 310px;
+  width: 940px;
+  height: 540px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(0, 0, 0, 0.699999988079071);
+}
+.transporatation-page-rectangle2 {
+  top: 70px;
+  left: 70px;
+  width: 126px;
+  height: 39px;
+  position: absolute;
+  border-color: rgba(255, 255, 255, 0.8999999761581421);
+  border-style: solid;
+  border-width: 1px;
+}
+.transporatation-page-rectangle3 {
+  top: 70px;
+  left: 195px;
+  width: 126px;
+  height: 39px;
+  position: absolute;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.transporatation-page-rectangle4 {
+  top: 70px;
+  left: 320px;
+  width: 155px;
+  height: 39px;
+  position: absolute;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.transporatation-page-text {
+  top: 79px;
+  left: 96px;
+  color: rgba(51, 51, 51, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.transporatation-page-text02 {
+  top: 79px;
+  left: 222px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.transporatation-page-text04 {
+  top: 79px;
+  left: 341px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.transporatation-page-rectangle6 {
+  top: 129px;
+  left: 70px;
+  width: 800px;
+  height: 68px;
+  position: absolute;
+}
+.transporatation-page-rectangle12 {
+  top: 394px;
+  left: 70px;
+  width: 800px;
+  height: 68px;
+  position: absolute;
+}
+.transporatation-page-rectangle7 {
+  top: 217px;
+  left: 70px;
+  width: 390px;
+  height: 68px;
+  position: absolute;
+}
+.transporatation-page-rectangle10 {
+  top: 305px;
+  left: 70px;
+  width: 390px;
+  height: 68px;
+  position: absolute;
+}
+.transporatation-page-rectangle9 {
+  top: 217px;
+  left: 480px;
+  width: 390px;
+  height: 68px;
+  position: absolute;
+}
+.transporatation-page-rectangle11 {
+  top: 305px;
+  left: 480px;
+  width: 390px;
+  height: 68px;
+  position: absolute;
+}
+.transporatation-page-frame {
+  top: 239px;
+  left: 100px;
+  width: 31px;
+  height: 23px;
+  position: absolute;
+}
+.transporatation-page-frame1 {
+  top: 235.79998779296875px;
+  left: 527.260009765625px;
+  width: 31px;
+  height: 23px;
+  position: absolute;
+}
+.transporatation-page-text06 {
+  top: 152px;
+  left: 144px;
+  color: rgba(51, 51, 51, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.transporatation-page-text08 {
+  top: 241px;
+  left: 144px;
+  color: rgba(51, 51, 51, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.transporatation-page-text10 {
+  top: 328px;
+  left: 134px;
+  color: rgba(51, 51, 51, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.transporatation-page-text12 {
+  top: 241px;
+  left: 556px;
+  color: rgba(51, 51, 51, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.transporatation-page-text14 {
+  top: 328px;
+  left: 542px;
+  color: rgba(51, 51, 51, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.transporatation-page-text16 {
+  top: 152px;
+  left: 337px;
+  color: rgba(51, 51, 51, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.transporatation-page-text18 {
+  top: 417px;
+  left: 408px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.transporatation-page-text20 {
+  top: 328px;
+  left: 317px;
+  color: rgba(51, 51, 51, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.transporatation-page-text22 {
+  top: 328px;
+  left: 717px;
+  color: rgba(51, 51, 51, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.transporatation-page-frame2 {
+  top: 329px;
+  left: 501px;
+  width: 19.3700008392334px;
+  height: 20.959999084472656px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.transporatation-page-group {
+  top: 0px;
+  left: 0px;
+  width: 19.3700008392334px;
+  height: 20.950000762939453px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.transporatation-page-vector {
+  top: 5.829999923706055px;
+  left: 0px;
+  width: 19px;
+  height: 6px;
+  position: absolute;
+}
+.transporatation-page-vector1 {
+  top: 0px;
+  left: 6.099999904632568px;
+  width: 7px;
+  height: 7px;
+  position: absolute;
+}
+.transporatation-page-vector2 {
+  top: 10.369999885559082px;
+  left: 1.528959035873413px;
+  width: 16px;
+  height: 11px;
+  position: absolute;
+}
+.transporatation-page-frame3 {
+  top: 146px;
+  left: 819px;
+  width: 31px;
+  height: 35px;
+  position: absolute;
+}
+.transporatation-page-polygon1 {
+  top: 258px;
+  left: 445px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.transporatation-page-polygon3 {
+  top: 345px;
+  left: 445px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.transporatation-page-polygon2 {
+  top: 258px;
+  left: 855px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.transporatation-page-polygon4 {
+  top: 345px;
+  left: 855px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.transporatation-page-frame4 {
+  top: 330px;
+  left: 97px;
+  width: 18.790000915527344px;
+  height: 18.790000915527344px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.transporatation-page-group1 {
+  top: 0px;
+  left: 0px;
+  width: 18.790000915527344px;
+  height: 18.780000686645508px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.transporatation-page-vector3 {
+  top: 8.050000190734863px;
+  left: 0px;
+  width: 19px;
+  height: 11px;
+  position: absolute;
+}
+.transporatation-page-vector4 {
+  top: 1.340000033378601px;
+  left: 0px;
+  width: 19px;
+  height: 5px;
+  position: absolute;
+}
+.transporatation-page-vector5 {
+  top: 0px;
+  left: 4.03000020980835px;
+  width: 1px;
+  height: 4px;
+  position: absolute;
+}
+.transporatation-page-vector6 {
+  top: 0px;
+  left: 13.420000076293945px;
+  width: 1px;
+  height: 4px;
+  position: absolute;
+}
+.transporatation-page-text24 {
+  top: 241px;
+  left: 366px;
+  color: rgba(0, 0, 0, 1);
+  width: 67px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.transporatation-page-text26 {
+  top: 241px;
+  left: 759px;
+  color: rgba(0, 0, 0, 1);
+  width: 91px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}

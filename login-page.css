@@ -1,0 +1,188 @@
+.login-page-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.login-page-login-page {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.login-page-devicongoogle {
+  top: 836px;
+  left: 229px;
+  width: 75px;
+  height: 75px;
+  position: absolute;
+}
+.login-page-hotairballoonsfestivalcolorfulblueskyaesthetic1284 {
+  top: -1069px;
+  left: 554px;
+  width: 1284px;
+  height: 2778px;
+  position: absolute;
+}
+.login-page-text {
+  top: 138px;
+  left: 44px;
+  color: rgba(16, 133, 213, 1);
+  width: 464px;
+  height: auto;
+  position: absolute;
+  font-size: 42px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login-page-rectangle15 {
+  top: 282px;
+  left: 44px;
+  width: 464px;
+  height: 80px;
+  position: absolute;
+  border-radius: 15px;
+}
+.login-page-rectangle16 {
+  top: 402px;
+  left: 44px;
+  width: 464px;
+  height: 80px;
+  position: absolute;
+  border-radius: 15px;
+}
+.login-page-text02 {
+  top: 304px;
+  left: 51px;
+  color: rgba(255, 255, 255, 1);
+  width: 450px;
+  height: auto;
+  position: absolute;
+  font-size: 34px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login-page-text04 {
+  top: 424px;
+  left: 51px;
+  color: rgba(255, 255, 255, 1);
+  width: 410px;
+  height: auto;
+  position: absolute;
+  font-size: 34px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login-page-text06 {
+  top: 512px;
+  left: 244px;
+  color: rgba(16, 133, 213, 1);
+  width: 284px;
+  height: auto;
+  position: absolute;
+  font-size: 34px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login-page-text08 {
+  top: 631px;
+  left: 212px;
+  color: rgba(16, 133, 213, 1);
+  width: 184px;
+  height: auto;
+  position: absolute;
+  font-size: 52px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login-page-text10 {
+  top: 762px;
+  left: 114px;
+  color: rgba(16, 133, 213, 1);
+  width: 354px;
+  height: auto;
+  position: absolute;
+  font-size: 29px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login-page-frame5 {
+  gap: 105px;
+  top: 835px;
+  left: 44px;
+  width: 75px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+}
+.login-page-logosfacebook {
+  width: 75px;
+  height: 75px;
+}
+.login-page-group {
+  top: 834px;
+  left: 423px;
+  width: 75px;
+  height: 75px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.login-page-vector {
+  top: 0px;
+  left: 0px;
+  width: 75px;
+  height: 75px;
+  position: absolute;
+}
+.login-page-vector1 {
+  top: 0px;
+  left: 0px;
+  width: 75px;
+  height: 75px;
+  position: absolute;
+}
+.login-page-vector2 {
+  top: 16.11329460144043px;
+  left: 11.1328125px;
+  width: 53px;
+  height: 43px;
+  position: absolute;
+}
